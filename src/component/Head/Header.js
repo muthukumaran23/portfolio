@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./header.css";
-import logo from "../pic/logo.png";
+// import logo from "../pic/logo.png";
 // import { themeContext } from "../Context";
 import { themeContext } from "../../Context";
 import { useContext } from "react";
