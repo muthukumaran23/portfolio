@@ -10,14 +10,12 @@ const Portfolio_data = [
   },
   {
     id: 2,
-
-    title: "Social Media ",
-    image: "assets/Projects/Project2.png",
+    title: "Ecommerce Application",
+    image: "assets/Projects/Ecommerce.png",
     discription:
-      "Social Media Management is a process of Post Addfrind command and expanse  ",
-    sourceLink:
-      "https://github.com/muthukumaran23/Social_Media_Management_Tool-Frontend.git",
-    deployLink: "https://social-media-management-tool-frontend.vercel.app/",
+      "This website describes an online organic vegetable and fruit ordering system. ",
+    sourceLink: "https://github.com/muthukumaran23/Ecommerce-frontend.git",
+    deployLink: "https://ecommerce-frontend-ten-sigma.vercel.app/",
   },
 ];
 export default Portfolio_data;
